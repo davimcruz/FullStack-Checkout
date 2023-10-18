@@ -1,5 +1,5 @@
 
-# Galaxy Checkout
+# Checkout
 
 Checkout transparente com integração à Gateways de terceiros para venda de produtos digitais.
 
@@ -23,7 +23,7 @@ Para instalar as dependências e rodar localmente utilize:
 
 ## Autores
 
-- [@yGalaxy](https://www.github.com/yGalaxy)
+- [@yGalaxy](https://www.github.com/davimcruz)
 
 
 ## Rodando os testes
