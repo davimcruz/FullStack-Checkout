@@ -23,7 +23,7 @@ Para instalar as dependências e rodar localmente utilize:
 
 ## Autores
 
-- [@yGalaxy](https://www.github.com/davimcruz)
+- [@Davi Machado](https://www.github.com/davimcruz)
 
 
 ## Rodando os testes
